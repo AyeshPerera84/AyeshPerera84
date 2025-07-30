@@ -7,7 +7,7 @@
 
 ### 🧰 Tech Stack  
 `JavaScript` `Node.js` `Python` `TypeScript` `React` `PostgreSQL`  
-`AWS` `API Integrations` `LLMs`  
+`AWS` `API Integrations` `LLMs`  Product roadmaps, backlog management, Micro SaaS
 
 ### 🚀 Featured Projects  
 - **tenant Application** – A mobile responsive wireframe design for NZ tenants to keep a track of all their weekly/monthly expenses.  
