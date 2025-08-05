@@ -10,7 +10,7 @@
 `AWS` `API Integrations` `LLMs`  Product roadmaps, backlog management, Micro SaaS
 
 ### 🚀 Featured Projects  
-- **[tenant ApplicationPrototype](https://github.com/AyeshPerera84/TenantApplication-mockup)** – A mobile responsive wireframe design for NZ tenants to keep a track of all their weekly/monthly expenses.  
+- **[Tenant ApplicationPrototype](https://github.com/AyeshPerera84/TenantApplication-mockup)** – A mobile responsive wireframe design for NZ tenants to keep a track of all their weekly/monthly expenses.  
 - **[Economic model builder](https://github.com/AyeshPerera84/EconomicModelBuilder)** – Real time APIs with NZ specific to produce a economic model for the applied parameters.
 - **[Routerz](https://github.com/AyeshPerera84/Routerz)** – using real time Google maps API - check the shortest path for a delivery at a given time.
 
