@@ -15,7 +15,7 @@
 - **[Routerz](https://github.com/AyeshPerera84/Routerz)** – using real time Google maps API - check the shortest path for a delivery at a given time.
 
 - Financial Literacy App for Kids - [Product Roadmap](https://docs.google.com/document/d/1f9CCFUbIzcjSpz-Ql-0wSjy3B6zedDZOcmTRbB3OaTg/edit?tab=t.0#heading=h.w28s91xl1g42) 
-
+- [ WSJF Calculator](https://github.com/AyeshPerera84/WSJF-Calculator)
 ### 📫 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/ayeshperera/)  
 - [Personal blog](https://nz-business-analysis.blogspot.com/)
